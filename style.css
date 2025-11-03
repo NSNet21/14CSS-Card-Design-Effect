@@ -174,8 +174,7 @@ body {
 /* styling the header */
 .footer-container {
   position: absolute;
-  bottom: 0;
-  transform: translateY(-1rem);
+  bottom: 1vh;
   width: calc(100% - 50px);
   display: flex;
   align-items: center;
@@ -329,7 +328,7 @@ body {
   opacity: 0;
   pointer-events: none;
   cursor: pointer;
-  z-index: 99;
+  z-index: 45;
   transition: all 0.5s ease-in-out;
 }
 

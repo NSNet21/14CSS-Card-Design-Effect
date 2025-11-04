@@ -342,7 +342,7 @@ body {
   color: white;
   font-size: 2rem;
   opacity: 0.3;
-  z-index: 99;
+  z-index: 45;
   transition: all 0.5s ease-in-out;
 }
 
@@ -375,7 +375,7 @@ body {
   top: 0;
   width: 0;
   left: 0;
-  z-index: 45;
+  z-index: 25;
   background-color: transparent;
   backdrop-filter: blur(5px);
   padding: 15px 35px;
